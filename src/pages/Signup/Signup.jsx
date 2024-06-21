@@ -118,7 +118,7 @@ const Signup = () => {
   };
 
   return (
-    <div className="bg-gray-100 flex justify-center items-center h-screen">
+    <div className="hidden bg-gray-100 md:flex justify-center items-center h-screen">
       <div className="relative w-full h-full">
   <img
     src="https://www.imhafiz.com/uploads/2/7/2/5/27255691/published/online-courses.jpg?1603090223"
